@@ -1,0 +1,17 @@
+.slider {
+    margin-top: 2.5vh;
+    display: flex;
+}
+
+.slider .MuiSlider-root {
+    height: 100%;
+    width: 75%;
+}
+
+.slider div {
+    width: 12.5%;
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: bold;
+}

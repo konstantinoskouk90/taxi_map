@@ -1,0 +1,11 @@
+.map-container {
+    height: 50vh;
+    width: 50vw;
+    margin: 0 auto 0 auto;
+}
+
+.slider-container {
+    height: 10vh;
+    width: 25vw;
+    margin: 0 auto 0 auto;
+}
