@@ -1,6 +1,6 @@
 <h1>#taxi_map</h1>
 
-<h4>A single page application using React w/ Redux which features a map. The map shows markers illustrating the up-to-date locations of on-demand taxis in the area.</h4>
+<h4>A single page application using React which features a map. The map shows markers illustrating the up-to-date locations of on-demand taxis in the area.</h4>
 
 <h2>Features</h2>
 
