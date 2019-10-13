@@ -39,6 +39,7 @@
 <h2>TODO - Extend functionality and scale app</h2>
 
 <ul>
+	<li>Refactor to use React 16.8 Hooks.</li>
 	<li>Add current location marker component.</li>
 	<li>Improve the overall styles.</li>
 </ul>
